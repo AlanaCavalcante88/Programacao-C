@@ -2,6 +2,8 @@
 *.o
 *.out
 *.exe
+*ex
+
 
 # Diretórios de build
 /build/

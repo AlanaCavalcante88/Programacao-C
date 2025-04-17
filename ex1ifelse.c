@@ -17,7 +17,7 @@ int main() {
     if (numero < 0) {
         printf("\nO número %d é negativo.", numero);
     }
-    else if (numero % 2 == 0) {
+    else if (numero % 2 == 0) {                       //pode usar também o operador ternário: que é uma alternativa para o if...else
         printf("O número %d é par.", numero);
 
     }else {
